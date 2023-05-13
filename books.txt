@@ -1,0 +1,250 @@
+BS_Code;Title;Author;Series_Title;Copyright_Year;Puplisher;Copies;Price
+QA10001;Control in Power Electronics: Selected Problems;Marian P. Kazmierkowski, Ramu Krishnan, Frede Blaabjerg, J. D. Irwin;Academic Press Series in Engineering;2003;Academic Press;17;360
+QA10002;Control in Robotics and Automation;Bijoy K. Ghosh, T. J. Tarn, Ning Xi;Academic Press Series in Engineering;1999;Academic Press;18;191
+QA10003;DSP Integrated Circuits;Lars Wanhammar;Academic Press Series in Engineering;1999;Academic Press;9;39
+QA10004;Industrial Controls and Manufacturing;Edward W. Kamen;Academic Press Series in Engineering;1999;Academic Press;29;443
+QA10005;Interlayer Dielectrics for Semiconductor Technologies;Shyam P Muraka, Moshe Eizenberg, Ashok K Sinha;Academic Press Series in Engineering;2003;Academic Press;15;61
+QA10006;Mechanical Engineer's Handbook;Dan B. Marghitu, J. David Irwin;Academic Press Series in Engineering;2001;Academic Press;24;421
+QA10007;Single and Multi-Chip Microcontroller Interfacing;G. Jack Lipovski, Jack. G Lipovski;Academic Press Series in Engineering;1999;Academic Press;14;37
+QA10008;Soft Computing and Intelligent Systems;Naresh Sinha, Madan Gupta;Academic Press Series in Engineering;2000;Academic Press;8;116
+QA10009;Time Domain Electromagnetics;Sadasiva M. Rao;Academic Press Series in Engineering;1999;Academic Press;10;122
+QA10010;Pressure Vessel Design: The Direct Route;Josef Zeman;Advances in Structural Integrity;2006;Elsevier;27;84
+QA10011;Acoustic Wave Sensors;D. Ballantine, Robert White, S. Martin, Antonio Ricco, E. Zellers, G. Frye, H. Wohltjen, Moises Levy, Richard Stern;Applications of Modern Acoustics;1997;Academic Press;16;89
+QA10012;Fundamentals of Acoustical Oceanography;Herman Medwin, Clarence S. Clay;Applications of Modern Acoustics;1998;Academic Press;13;96
+QA10013;Intelligent Vehicle Technologies;Ljubo Vlacic, M. Parent, F. Harashima;Automotive Engineering Series;2001;Butterworth-Heinemann;16;347
+QA10014;Lightweight Electric/Hybrid Vehicle Design;John Fenton, Ron Hodkinson;Automotive Engineering Series;2000;Butterworth-Heinemann;8;325
+QA10015;Motor Vehicle Structures;J. C. Brown, A.J. Robertson, S.T. Serpento;Automotive Engineering Series;2001;Butterworth-Heinemann;17;337
+QA10016;Bioelectrical Signal Processing in Cardiac and Neurological Applications;Leif Sörnmo, Pablo Laguna;Biomedical Engineering;2005;Academic Press;10;106
+QA10017;Circuits, Signals, and Systems for Bioengineers: A MATLAB-Based Introduction;John Semmlow;Biomedical Engineering;2005;Academic Press;26;249
+QA10018;Clinical Engineering Handbook;Joseph Dyro;Biomedical Engineering;2004;Academic Press;22;315
+QA10019;Diagnostic Ultrasound Imaging: Inside Out;Thomas Szabo;Biomedical Engineering;2004;Academic Press;14;61
+QA10020;Handbook of Medical Imaging: Processing and Analysis Management;Isaac Bankman;Biomedical Engineering;2000;Academic Press;21;410
+QA10021;Numerical Methods in Biomedical Engineering;Stanley Dunn, Alkis Constantinides, Prabhas Moghe;Biomedical Engineering;2006;Academic Press;13;388
+QA10022;Exploratory Image Databases;Simone Santini;Communications, Networking and Multimedia;2001;Academic Press;23;183
+QA10023;Handbook of Image and Video Processing;Alan Bovik;Communications, Networking and Multimedia;2005;Academic Press;28;437
+QA10024;Introduction to Multimedia Systems;Bhatnagar, Gaurav;Communications, Networking and Multimedia;2004;Academic Press;14;233
+QA10025;Lossless Compression Handbook;Khalid Sayood;Communications, Networking and Multimedia;2003;Academic Press;29;217
+QA10026;Multimedia Communications: Directions and Innovations;Jerry D. Gibson;Communications, Networking and Multimedia;2001;Academic Press;10;100
+QA10027;Nonlinear Image Processing;Giovanni Sicuranza, Sanjit Mitra;Communications, Networking and Multimedia;2001;Academic Press;29;107
+QA10028;The E-Commerce Book;Steffano Korper, Juanita Ellis;Communications, Networking and Multimedia;2001;Morgan Kaufmann;21;340
+QA10029;Third Generation CDMA Systems for Enhanced Data Services;Giridhar D. Mandyam, Jersey Lai, Jerry D. Gibson;Communications, Networking and Multimedia;2003;Academic Press;17;313
+QA10030;Digital Signal Processing Systems: Implementation Techniques;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;11;235
+QA10031;Multidimensional Systems: Signal Processing and Modeling Techniques;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;16;230
+QA10032;Digital Control Systems Implementation Techniques;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;12;355
+QA10033;DiscreteTime Control System Analysis and Design;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;22;316
+QA10034;DiscreteTime Control System Implementation Techniques;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;25;41
+QA10035;Techniques in Discrete-Time Stochastic Control Systems;Cornelius Leondes;Control and Dynamic Systems;1995;Academic Press;24;218
+QA10036;Techniques in Discrete and Continuous Robust Systems;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;12;76
+QA10037;Computer Techniques and Algorithms in Digital Signal Processing;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;21;372
+QA10038;Stochastic Digital Control System Techniques;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;26;73
+QA10039;Multidimensional Systems Signal Processing Algorithms and Application Techniques;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;29;43
+QA10040;Digital Control and Signal Processing Systems and Techniques;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;30;245
+QA10041;Digital Control Systems Implementation and Computational Techniques;Cornelius Leondes;Control and Dynamic Systems;1996;Academic Press;10;395
+QA10042;Demystifying Mixed Signal Test Methods;Mark Baker;Demystifying Technology;2003;Newnes;27;318
+QA10043;Demystifying Switching Power Supplies;Raymond A. Mack;Demystifying Technology;2005;Newnes;19;270
+QA10044;Analog and Digital Filter Design;Steve Winder;EDN Series for Design Engineers;2002;Newnes;12;216
+QA10045;Designus Maximus Unleashed;Clive Maxfield;EDN Series for Design Engineers;1998;Newnes;30;87
+QA10046;Electromagnetics Explained: A Handbook for Wireless/ RF, EMC, and High-Speed Electronics;Ron Schmitt;EDN Series for Design Engineers;2002;Newnes;9;100
+QA10047;Inside OrCAD;Chris Schroeder;EDN Series for Design Engineers;1996;Newnes;12;261
+QA10048;Inside OrCAD Capture for Windows;Chris Schroeder;EDN Series for Design Engineers;1998;Newnes;20;374
+QA10049;Inside PC Card: CardBus and PCMCIA Design;Faisal Imdad-Haque;EDN Series for Design Engineers;1996;Butterworth-Heinemann;20;399
+QA10050;PCB Design Using AutoCAD;Chris Shroeder;EDN Series for Design Engineers;1997;Newnes;19;271
+QA10051;Power Electronics Design Handbook: Low-Power Components and Applications;Nihal Kularatna;EDN Series for Design Engineers;1998;Newnes;11;398
+QA10052;Power Supply Cookbook;Marty Brown;EDN Series for Design Engineers;2001;Newnes;23;42
+QA10053;Radio Frequency Transistors: Principles and Practical Applications;Norman Dye, Helge Granberg;EDN Series for Design Engineers;2001;Newnes;26;60
+QA10054;Rechargeable Batteries Applications Handbook;Gates Energy Products;EDN Series for Design Engineers;1997;Newnes;18;196
+QA10055;Simplified Design of Voltage/Frequency Converters;John Lenk;EDN Series for Design Engineers;1997;Newnes;28;357
+QA10056;The Art and Science of Analog Circuit Design;Jim Williams;EDN Series for Design Engineers;1998;Newnes;27;450
+QA10057;Characterization and Measurement of Magnetic Materials;Fausto Fiorillo, Isaak Mayergoyz;Electromagnetism;2004;Academic Press;30;58
+QA10058;Computational Electromagnetism;Alain Bossavit;Electromagnetism;1998;Academic Press;19;226
+QA10059;Fast Multipole Methods for the Helmholtz Equation in Three Dimensions;Nail Gumerov, Ramani Duraiswami;Electromagnetism;2005;Elsevier;21;67
+QA10060;Hysteresis in Magnetism;Giorgio Bertotti;Electromagnetism;1998;Academic Press;30;309
+QA10061;Magnetic Information Storage Technology;Shan Wang, Alex Taratorin;Electromagnetism;1999;Academic Press;22;50
+QA10062;Magnetic Resonance Imaging;Vadim Kuperman;Electromagnetism;2000;Academic Press;26;230
+QA10063;Magneto-Resistive and Spin Valve Heads: Fundamentals and Applications;John C. Mallinson;Electromagnetism;2002;Academic Press;27;38
+QA10064;Mathematical Models of Hysteresis and their Applications;Isaak Mayergoyz;Electromagnetism;2003;Elsevier;10;310
+QA10065;Nonlinear Diffusion of Electromagnetic Fields;Isaak Mayergoyz;Electromagnetism;1998;Academic Press;19;238
+QA10066;Numerical Methods in Electromagnetism;Sheppard Salon, M. V.K. Chari;Electromagnetism;2000;Academic Press;26;208
+QA10067;Permanent Magnet and Electromechanical Devices: Materials, Analysis, and Applications;Edward P. Furlani;Electromagnetism;2001;Academic Press;21;326
+QA10068;Transmission Lines and Lumped Circuits: Fundamentals and Applications;Giovanni Miano, Antonio Maffucci;Electromagnetism;2001;Academic Press;13;411
+QA10069;Ergonomics Guidelines and Problem Solving;A. Mital;Elsevier Ergonomics Book Series;2000;Elsevier;10;271
+QA10070;Risk Assessment and Management of Repetitive Movements and Exertions of Upper Limbs;Daniela Colombini;Elsevier Ergonomics Book Series;2002;Elsevier;15;326
+QA10071;Environmental Ergonomics: The Ergonomics of Human Comfort, Health, and Performance in the Thermal Environment;Yutaka Tochihara, Tadakatsu Ohnara;Elsevier Ergonomics Book Series;2005;Elsevier;30;361
+QA10072;Practical Ship Design;D.G.M. Watson;Elsevier Ocean Engineering Series;1998;Elsevier;29;137
+QA10073;Wind Generated Ocean Waves;I.R. Young;Elsevier Ocean Engineering Series;1999;Elsevier;18;254
+QA10074;Pipelines and Risers;Yong Bai;Elsevier Ocean Engineering Series;2001;Elsevier;29;340
+QA10075;Load and Global Response of Ships;J.J Jensen;Elsevier Ocean Engineering Series;2001;Elsevier;18;242
+QA10076;Wave Energy Conversion;John Brooke;Elsevier Ocean Engineering Series;2003;Elsevier;25;350
+QA10077;Technology and Safety of Marine Systems;A. Pillay, J. Wang;Elsevier Ocean Engineering Series;2003;Elsevier;25;364
+QA10078;Hurricane Generated Seas;Michel Ochi;Elsevier Ocean Engineering Series;2003;Elsevier;28;384
+QA10079;Applied Control Theory for Embedded Systems;Tim Wescott;Embedded Technology;2006;Newnes;15;300
+QA10080;Designer’s Guide to the Cypress PSoC;Robert Ashby;Embedded Technology;2005;Newnes;13;254
+QA10081;Designing Embedded Internet Devices;Brian DeMuth, Dan Eisenreich;Embedded Technology;2002;Newnes;15;174
+QA10082;DSP Software Development Techniques for Embedded and Real-Time Systems;Robert Oshana;Embedded Technology;2006;Newnes;24;32
+QA10083;Embedded FreeBSD Cookbook;Paul Cevoli;Embedded Technology;2003;Newnes;13;142
+QA10084;Embedded Media Processing;David J. Katz, Rick Gentile;Embedded Technology;2005;Newnes;29;434
+QA10085;Embedded Multitasking;Keith E. Curtis;Embedded Technology;2006;Newnes;23;424
+QA10086;Embedded System Design on a Shoestring: Achieving High Performance with a Limited Budget;Lewin Edwards;Embedded Technology;2003;Newnes;11;109
+QA10087;Embedded Systems Architecture: A Comprehensive Guide for Engineers and Programmers;Tammy Noergaard;Embedded Technology;2005;Newnes;12;43
+QA10088;Embedded Systems Design Using the TI MSP430 Series;Chris Nagy;Embedded Technology;2003;Newnes;30;32
+QA10089;Fuzzy Logic for Embedded Systems Applications;Ahmad Ibrahim;Embedded Technology;2003;Newnes;21;335
+QA10090;Hardware and Computer Organization;Arnold S. Berger;Embedded Technology;2005;Newnes;22;79
+QA10091;Implementing 802.11 with Microcontrollers: Wireless Networking for Embedded Systems Designers;Fred Eady;Embedded Technology;2006;Newnes;10;67
+QA10092;Linux for Embedded and Real-time Applications;Doug Abbott;Embedded Technology;2006;Newnes;18;175
+QA10093;Programming PIC Microcontrollers with PICBASIC;Chuck Hellebuyck;Embedded Technology;2002;Newnes;21;62
+QA10094;Programming the PIC Microcontroller with MBASIC;Jack Smith;Embedded Technology;2005;Newnes;13;196
+QA10095;Rapid System Prototyping with FPGAs: Accelerating the design process;RC Cofer, Benjamin F. Harding;Embedded Technology;2006;Newnes;28;39
+QA10096;So You Wanna Be an Embedded Engineer: The Guide to Embedded Engineering, From Consultancy to the Corporate Ladder;Lewin Edwards;Embedded Technology;2006;Newnes;15;404
+QA10097;The Firmware Handbook;Jack Ganssle;Embedded Technology;2004;Newnes;15;333
+QA10098;Trusted Platform Module Basics;Steven L. Kinney;Embedded Technology;2006;Newnes;11;244
+QA10099;Control of Induction Motors;Andrzej M. Trzynadlowski;Engineering;2001;Academic Press;26;233
+QA10100;Embedded Microcontroller Interfacing for M-COR Systems;G. Lipovski, J. Irwin;Engineering;2000;Academic Press;10;402
+QA10101;Fatigue Design of Components;G.Marquis, J Solin;European Structural Integrity Society;1997;Elsevier;10;268
+QA10102;Fatigue Design and Reliability;G.Marquis, J Solin;European Structural Integrity Society;1999;Elsevier;27;179
+QA10103;Minimum Reinforcement in Concrete Members;A. Carpinteri;European Structural Integrity Society;1999;Elsevier;11;243
+QA10104;Multitaxial Fatigue & Fracture;E. Macha, W. Bedkowski, T. Lagoda;European Structural Integrity Society;1999;Elsevier;30;174
+QA10105;Fracture Mechanics: Applications and Challenges;M. Fuentes, M. Elices;European Structural Integrity Society;2000;Elsevier;25;349
+QA10106;Fracture of Polymers, Composites and Adhesives;J.G. Williams, A. Pavan;European Structural Integrity Society;2000;Elsevier;15;317
+QA10107;Fracture Mechanics Testing Methods for Polymers, Adhesives and Composites;D.R. Moore, J.G. Williams, A. Pavan;European Structural Integrity Society;2001;Elsevier;25;273
+QA10108;Temperature-Fatigue Interaction;L. Remy, J. Petit;European Structural Integrity Society;2002;Elsevier;28;128
+QA10109;From Charpy to Present Impact Testing;D. Francois, A. Pineau;European Structural Integrity Society;2002;Elsevier;15;214
+QA10110;Biaxial/Multiaxial Fatigue and Fracture;Andrea Carpinteri, Manuel De Freitus, Andrea Spagnoli;European Structural Integrity Society;2003;Elsevier;26;77
+QA10111;Fracture of Polymers, Composites and Adhesives II;J. Williams, A. Pavan, Bamber Balckman;European Structural Integrity Society;2003;Elsevier;29;330
+QA10112;Fluid-Structure Interactions, Volume 1;Michael P. Paidoussis;Fluid-Structure Interactions;1998;Academic Press;21;401
+QA10113;Fluid-Structure Interactions, Volume 2;Michael P. Paidoussis;Fluid-Structure Interactions;2003;Academic Press;22;139
+QA10114;Environmental Forensics: Contaminant Specific Guide;Robert D. Morrison, Brian L. Murphy;Fundamentals of Forensic Science;2005;Academic Press;19;107
+QA10115;Handbook of Adhesives and Sealants, Volume 1;Phillipe Cognard;Handbook of Adhesives and Sealants;2005;Elsevier;26;108
+QA10116;Handbook of Adhesives and Sealants, Volume 2;Phillipe Cognard;Handbook of Adhesives and Sealants;2006;Elsevier;15;330
+QA10117;Intelligent Sensors;H. Yamasaki;Handbook of Sensors and Actuators;1996;Elsevier;15;109
+QA10118;Semiconductor Sensors in PhysicoChemical Studies;L.Yu Kupriyanov;Handbook of Sensors and Actuators;1996;Elsevier;28;147
+QA10119;Mercury Cadmium Telluride Imagers;A.C. Onshage;Handbook of Sensors and Actuators;1997;Elsevier;22;75
+QA10120;Micro Mechanical Systems;T. Fukuda, Wolfgang Menz;Handbook of Sensors and Actuators;1998;Elsevier;28;121
+QA10121;Measuring Current, Voltage and Power;K. Iwansson, G. Sinapius, W. Hoornaert, S. Middelhoek;Handbook of Sensors and Actuators;1999;Elsevier;17;315
+QA10122;Micro Mechanical Transducers;Minhang Bao, S. Middelhoek;Handbook of Sensors and Actuators;2000;Elsevier;19;218
+QA10123;Practical Embedded Controllers;John Park;IDC Technology;2003;Newnes;8;112
+QA10124;Practical Fiber Optics;David Bailey, Edwin Wright;IDC Technology;2003;Newnes;13;374
+QA10125;Practical Industrial Data Networks;Steve Mackay, Edwin Wright, Deon Reynders, John Park;IDC Technology;2004;Newnes;26;55
+QA10126;Practical Industrial Safety, Risk Assessment and Shutdown Systems;Dave Macdonald;IDC Technology;2003;Newnes;29;343
+QA10127;Practical Modern SCADA Protocols;Gordon Clarke, Deon Reynders;IDC Technology;2003;Newnes;9;252
+QA10128;Practical Radio Engineering and Telemetry for Industry;David Bailey;IDC Technology;2003;Newnes;17;228
+QA10129;Practical SCADA for Industry;David Bailey, Edwin Wright;IDC Technology;2003;Newnes;8;196
+QA10130;New Insulators, Devices and Radiation Effects;G. Barbottin, A. Vapaille;Instabilities in Silicon Devices;1999;North-Holland;24;113
+QA10131;Trends in Optics;Anna Consortini;Lasers and Optical Engineering;1996;Academic Press;11;131
+QA10132;Lean Maintenance: Reduce Costs, Improve Quality, and Increase Market Share;Ricky Smith, Bruce Hawkins;Life Cycle Engineering Series;2004;Butterworth-Heinemann;12;236
+QA10133;Engineering Drawing for Manufacture;Brian Griffiths;Manufacturing Engineering Modular Series;2003;Butterworth-Heinemann;16;79
+QA10134;Flexible Manufacturing Systems: Recent Developments;A. Raouf, M. Ben-Daya;Manufacturing Research and Technology;1995;Elsevier;10;197
+QA10135;Planning, Design, and Analysis of Cellular Manufacturing Systems;A.K. Kamrani, H.R. Parsaei, D.H. Liles;Manufacturing Research and Technology;1995;Elsevier;22;118
+QA10136;Modelling of Mechanical Systems: Discrete Systems;François Axisa;Modelling of Mechanical Systems;2004;Butterworth-Heinemann;22;258
+QA10137;Modelling of Mechanical Systems: Structural Elements;François Axisa;Modelling of Mechanical Systems;2005;Butterworth-Heinemann;29;219
+QA10138;Advanced Concrete Technology Set;John Newman, B S Choo;n/a;2003;Butterworth-Heinemann;20;145
+QA10139;Well Logging and Formation Evaluation;Toby Darling;n/a;2005;Gulf Professional Publishing;18;68
+QA10140;Wills' Mineral Processing Technology: An Introduction to the Practical Aspects of Ore Treatment and Mineral Recovery;Barry Wills, Tim Napier-Munn;n/a;2005;Butterworth-Heinemann;28;235
+QA10141;Writing for Science and Engineering: Papers, Presentations and Reports;Heather Silyn-Roberts;n/a;2000;Butterworth-Heinemann;29;252
+QA10142;Computer Control and Human Error;Trevor Kletz;n/a;1995;Gulf Professional Publishing;26;421
+QA10143;Design Engineering;Harry Cather;n/a;2001;Newnes;8;428
+QA10144;Mechanical Engineering Systems;Richard Gentle;n/a;2001;Newnes;20;279
+QA10145;Handbook of Offshore Engineering;Subrata Chakrabarti;n/a;2005;Elsevier Science;16;107
+QA10146;Analog Electronics;David Crecraft;n/a;2002;Butterworth-Heinemann;29;341
+QA10147;Mathematics for Engineers and Technologists;Huw Fox;n/a;2002;Butterworth-Heinemann;12;247
+QA10148;Structural and Stress Analysis;T. H. G. Megson;n/a;2005;Butterworth-Heinemann;30;432
+QA10149;Automotive Computer Controlled Systems;Bonnick, Allan;n/a;2000;Butterworth-Heinemann;10;277
+QA10150;Optical Fiber Telecommunications IV-A;Kaminow, Ivan,Li, Tingye;n/a;2002;Academic Press;11;194
+QA10151;Optical Fiber Telecommunications IV-B;Kaminow, Ivan,Li, Tingye;n/a;2002;Academic Press;16;63
+QA10152;Learning from Accidents;Kletz, Trevor A;n/a;2001;Gulf Professional Publishing;18;374
+QA10153;Marine Auxiliary Machinery;McGeorge, H D;n/a;1999;Butterworth-Heinemann;29;436
+QA10154;Newnes Industrial Control Wiring Guide;Mercer, R B;n/a;2001;Newnes;30;40
+QA10155;Productive Safety Management;Mol, Tania;n/a;2003;Butterworth-Heinemann;15;257
+QA10156;Renewable Energy;Sorensen, Bent;n/a;2004;Academic Press;11;343
+QA10157;Electronic Navigation Systems;Tetley, Laurie,Calcutt, David;n/a;2001;Butterworth-Heinemann;12;401
+QA10158;Mastering Statistical Process Control;Tim Stapenhurst;n/a;2005;Butterworth-Heinemann;24;361
+QA10159;Six Sigma;Truscott, William;n/a;2003;Butterworth-Heinemann;29;174
+QA10160;Heat Pipes;David Reay, Peter Kew;n/a;2007;Butterworth-Heinemann;26;447
+QA10161;Geometrical Dimensioning and Tolerancing for Design, Manufacturing and Inspection;Georg Henzold;n/a;2006;Butterworth-Heinemann;22;195
+QA10162;Automotive Air Conditioning and Climate Control Systems;Steven Daly;n/a;2006;Butterworth-Heinemann;29;405
+QA10163;8051 Microcontrollers: An Applications Based Introduction;David Calcutt, Frederick Cowan, Hassan Parchizadeh;n/a;2003;Newnes;26;407
+QA10164;A Baker's Dozen: Real Analog Solutions for Digital Designers;Bonnie Baker;n/a;2005;Newnes;17;190
+QA10165;A Practical Handbook of Preparative HPLC;Donald Wellings;n/a;2005;Elsevier;18;446
+QA10166;A Unified Approach to the Finite Element Method and Error Analysis Procedures;Julian A. T. Dow;n/a;1999;Academic Press;24;375
+QA10167;A Unified Framework for Video Summarization, Browsing & Retrieval: with Applications to Consumer and Surveillance Video;Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Yong Rui, Thomas S. Huang;n/a;2006;Academic Press;28;349
+QA10168;A Wavelet Tour of Signal Processing;Stéphane Mallat;n/a;1999;Academic Press;29;91
+QA10169;Accelerated Quality and Reliability Solutions;Lev Klyatis, Eugene Klyatis;n/a;2006;Elsevier;11;268
+QA10170;Accelerated Testing and Validation;Alex Porter;n/a;2004;Newnes;9;111
+QA10171;Active Control of Vibration;Christopher C. Fuller, S.J. Elliott, P.A. Nelson;n/a;1996;Academic Press;9;337
+QA10172;Active Matrix Liquid Crystal Displays: Fundamentals and Applications;Willem den Boer;n/a;2005;Newnes;26;374
+QA10173;Adaptive Control Systems;Gang Feng, Rogelio Lozano;n/a;1999;Newnes;8;442
+QA10174;Adsorption Technology & Design;Barry Crittenden, W John Thomas;n/a;1998;Butterworth-Heinemann;16;368
+QA10175;Advanced Control Engineering;Roland Burns;n/a;2001;Butterworth-Heinemann;22;123
+QA10176;Advanced Engineering Dynamics;H. Harrison, T. Nettleton;n/a;1997;Butterworth-Heinemann;30;138
+QA10177;Advanced Polymer Composites and Polymers in the Civil Infrastructure;L.C. Hollaway, P.R. Head;n/a;2001;Elsevier Science Ltd;24;353
+QA10178;Advanced Reservoir Engineering;Tarek Ahmed, Ph.D., P.E., Paul McKinney;n/a;2005;Gulf Professional Publishing;25;104
+QA10179;Advanced Techniques for Assessment Surface Topography: Development of a Basis for 3D Surface Texture Standards Surfstand;Liam Blunt, Xiang Jiang;n/a;2003;Butterworth-Heinemann;28;294
+QA10180;Advanced Thermodynamics for Engineers;D. Winterbone;n/a;1996;Butterworth-Heinemann;14;431
+QA10181;Advances in Building Technology;M. Anson, J.M. Ko, E.S.S. Lam;n/a;2002;Elsevier;9;396
+QA10182;Advances in Damage Mechanics: Metals and Metal Matrix Composites With an Introduction to Fabric Tensors;George Voyiadjis, Peter Kattan;n/a;2006;Elsevier Science Ltd;26;440
+QA10183;Advances in Engineering Fluid Mechanics: Multiphase Reactor and Polymerization System Hydrodynamics;Nicholas P Cheremisinoff;n/a;1996;Gulf Professional Publishing;23;95
+QA10184;Advances in Steel Structures (ICASS '02);J.G. Teng, K.F. Chung, S.L. Chan;n/a;2002;Elsevier;19;300
+QA10185;Advances in Steel Structures (ICASS '96);S.L. Chan, J.G. Teng;n/a;1996;Pergamon;22;143
+QA10186;Advances in Steel Structures (ICASS '99);Siu-Lai Chan, J.G. Teng;n/a;1999;Pergamon;19;93
+QA10187;Advances in the Bonded Composite Repair of Metallic Aircraft Structure;A.A. Baker, L.R.F. Rose, R. Jones;n/a;2002;Elsevier Science Ltd;23;120
+QA10188;Aeronautical Engineer's Data Book;Cliff Matthews;n/a;2001;Butterworth-Heinemann;22;146
+QA10189;Agile Manufacturing: The 21st Century Competitive Strategy;A. Gunasekaran;n/a;2001;Elsevier Science Ltd;23;400
+QA10190;Air Conditioning Engineering;W. P. Jones;n/a;2001;Butterworth-Heinemann;8;72
+QA10191;Aircraft Design Projects: For Engineering Students;Lloyd R. Jenkinson, Jim Marchman;n/a;2003;Butterworth-Heinemann;26;333
+QA10192;An Elementary Guide To Reliability;G. Dummer, R. Winton, Mike Tooley;n/a;1997;Butterworth-Heinemann;19;364
+QA10193;Analog and Digital Circuits for Electronic Control System Applications: Using the TI MSP430 Microcontroller;Jerry Luecke;n/a;2005;Newnes;21;404
+QA10194;Analog Electronics;Ian Hickman;n/a;1999;Newnes;28;396
+QA10195;Analog Interfacing to Embedded Microprocessor Systems;Stuart Ball;n/a;2003;Newnes;9;448
+QA10196;Analogue and Digital Communication Techniques;Graham Smillie;n/a;1999;Butterworth-Heinemann;26;129
+QA10197;Analysis and Design Principles of MEMS Devices;Minhang Bao;n/a;2005;Elsevier Science Ltd;30;324
+QA10198;Analysis of Turbulent Flows;Tuncer Cebeci;n/a;2004;Elsevier;23;265
+QA10199;Analytical Fracture Mechanics;David J. Unger;n/a;1995;Academic Press;27;56
+QA10200;Antenna Toolkit;Joseph Carr;n/a;2001;Newnes;19;400
+QA10201;Applications of Nonlinear Fiber Optics;Govind Agrawal;n/a;2001;Academic Press;12;79
+QA10202;Art of the Helicopter;John Watkinson;n/a;2003;Butterworth-Heinemann;16;97
+QA10203;Astronomical Optics;Daniel J. Schroeder;n/a;2000;Academic Press;10;202
+QA10204;Audio Electronics;John Linsley Hood;n/a;1998;Newnes;30;256
+QA10205;Audio Power Amplifier Design Handbook;Douglas Self;n/a;2006;Newnes;18;101
+QA10206;Audop Power Amplifier Handbook;Self;n/a;2002;Newnes;11;106
+QA10207;Automotive Chassis: Engineering Principles;Jornsen Reimpell, Helmut Stoll, Jurgen Betzler;n/a;2000;Butterworth-Heinemann;21;65
+QA10208;Automotive Quality Systems Handbook;David Hoyle;n/a;2005;Butterworth-Heinemann;17;289
+QA10209;AVR: An Introductory Course;John Morton;n/a;2003;Newnes;29;342
+QA10210;Basic AC Circuits;Clay Rawlins;n/a;2000;Newnes;30;91
+QA10211;Basic Electronics Math;Clyde Herrick;n/a;1996;Newnes;27;411
+QA10212;Basic Ship Theory;E. C. Tupper, KJ Rawson;n/a;2001;Butterworth-Heinemann;9;167
+QA10213;Basic Structured Grid Generation: With an introduction to unstructured grid generation;M Farrashkhalvat, J P Miles;n/a;2003;Butterworth-Heinemann;8;93
+QA10214;Battery Reference Book;T R Crompton;n/a;2000;Newnes;25;242
+QA10215;Bebop to the Boolean Boogie: An Unconventional Guide to Electronics;Clive Maxfield;n/a;2001;Newnes;22;196
+QA10216;Binary Digital Image Processing: A Discrete Approach;Stéphane Marchand-Maillet, Yazid M. Sharaiha;n/a;2000;Academic Press;25;389
+QA10217;Bio-Based Polymers and Composites;Richard Wool, X. Susan Sun;n/a;2005;Academic Press;14;82
+QA10218;Bioimpedance and Bioelectricity Basics;Sverre Grimnes, Orjan G Martinsen;n/a;2000;Academic Press;21;372
+QA10219;Boundary Elements: Theory and Applications;J.T. Katsikadelis;n/a;2002;Elsevier;26;367
+QA10220;Bramwell's Helicopter Dynamics;A. R. S. Bramwell, David Balmford, George Done;n/a;2000;Butterworth-Heinemann;10;239
+QA10221;Bridge Management;M. J. Ryall;n/a;2001;Butterworth-Heinemann;13;323
+QA10222;Building Adaptation;James Douglas;n/a;2006;Butterworth-Heinemann;17;387
+QA10223;Bulletproof Wireless Security: GSM, UMTS, 802.11, and Ad Hoc Security;Praphul Chandra;n/a;2005;Newnes;14;251
+QA10224;Capture Pumping Technology;K. Welch;n/a;2001;North-Holland;27;296
+QA10225;Case Studies in Engineering Design;Cliff Matthews;n/a;1998;Butterworth-Heinemann;23;287
+QA10226;Castings Practice: The Ten Rules of Castings;John Campbell;n/a;2004;Butterworth-Heinemann;24;449
+QA10227;CE Marking Handbook;Dave Lohbeck;n/a;1998;Newnes;16;291
+QA10228;Cellular Communications Explained;Ian Poole;n/a;2005;Newnes;15;370
+QA10229;Chemical Process Safety: Learning from Case Histories;Roy E Sanders;n/a;2004;Gulf Professional Publishing;26;287
+QA10230;Chemical Risk Analysis: A Practical Handbook;Bernard Martel;n/a;2004;Butterworth-Heinemann;30;300
+QA10231;Civil Engineering Project Management;Alan C. Twort, J Gordon Rees;n/a;2003;Butterworth-Heinemann;15;399
+QA10232;Cognitive Radio Technology;Bruce A. Fette;n/a;2006;Newnes;15;151
+QA10233;Cognitive Reliability and Error Analysis Method (CREAM);E. Hollnagel;n/a;1998;Elsevier Science Ltd;18;407
+QA10234;Cold-Formed Tubular Members and Connections;Xiao-Ling Zhao,Greg Hancock,Tim Wilkinson;n/a;2005;Elsevier;26;148
+QA10235;Combustion Processes in Propulsion: Control, Noise, and Pulse Detonation;Gabriel Roy;n/a;2005;Butterworth-Heinemann;12;241
+QA10236;Combustion;Irvin Glassman;n/a;1996;Academic Press;13;59
+QA10237;Compact Heat Exchangers;J.E. Hesselgreaves;n/a;2001;Pergamon;8;106
+QA10238;Competitive Engineering;Tom Gilb;n/a;2005;Butterworth-Heinemann;13;395
+QA10239;Composite Structures, Design, Safety and Innovation;Dr. Bjorn Backman;n/a;2005;Elsevier;22;250
+QA10240;Composites - A Profile of the World-wide Reinforced Plastics Industry, Markets & Suppliers to 2005;T. Starr ;n/a;1999;Elsevier;30;388
+QA10241;Composites in Infrastructure - Building New Markets;E Marsh;n/a;2000;Elsevier;28;93
+QA10242;Compressor Performance: Aerodynamics for the User;Theodore Gresh;n/a;2001;Newnes;21;174
+QA10243;Compressors: Selection and Sizing;Royce N. Brown;n/a;2005;Gulf Professional Publishing;27;60
+QA10244;Computational Fluid and Solid Mechanics 2003;K.J. Bathe;n/a;2003;Elsevier;19;113
+QA10245;Computational Fluid Dynamics: Principles and Applications;Jiri Blazek;n/a;2005;Elsevier;20;390
+QA10246;Computational Mechanics in Structural Engineering;F.Y. Cheng, Yuanxian Gu;n/a;1999;Elsevier Science Ltd;12;280
+QA10247;Computational Methods in Process Simulation;W F Ramirez;n/a;1997;Butterworth-Heinemann;8;425
+QA10248;Computational Plasticity in Powder Forming Processes;Amir Khoei;n/a;2005;Elsevier;9;194
+QA10249;Computer Busses;William Buchanan;n/a;2000;Butterworth-Heinemann;25;323
